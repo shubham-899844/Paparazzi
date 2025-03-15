@@ -4,7 +4,7 @@
 A photographer booking system allows logged-in users to book a shoot with their desired photographer. <br>
 Enthusiastic and professional photographers can apply to become photographers on our website.
 
-#### My Project is delpoyed here [Paparazzi](https://bookmyshoot.netlify.app/)
+#### My Project is delpoyed here [Paparazzi app-BookmyShoot](https://bookmyshoot.netlify.app/)
 
 ### Developer 
 - :man_technologist: [Shubham](https://www.linkedin.com/in/shubham-thakur-58a767315/)
