@@ -35,12 +35,10 @@ You will land on the home page. From the navigation bar, click on "Signup" to be
 
 If you're a professional or aspiring photographer, you can apply for a photographer role on our platform. This allows you to receive appointment requests from users seeking photography services. By joining, you can showcase your skills, expand your client base, and connect with potential clients looking to hire photographers through our platform.
 
-### Have a look at our routes in `Swagger`
 
-[API](https://bookmyshoot-backend.onrender.com/api-docs)
 
 ### Deloployed Links
-Backend on [Render](https://bookmyshoot-backend.onrender.com) <br>
+
 Frontend on [Netlify](https://bookmyshoot.netlify.app/)
 
 ### Tech Stack
