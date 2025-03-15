@@ -1,6 +1,6 @@
 ![logo](https://github.com/git-rishab/accessible-juice-7886/assets/114225283/a1f3dc00-1841-47f6-a651-3938d209dc6c)
 
-# Book My Shoot : A goto Paparazzi website:camera_flash:
+# Book My Shoot: A goto Paparazzi website:
 A photographer booking system allows logged-in users to book a shoot with their desired photographer. <br>
 Enthusiastic and professional photographers can apply to become photographers on our website.
 
