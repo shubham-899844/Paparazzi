@@ -4,14 +4,10 @@
 A photographer booking system allows logged-in users to book a shoot with their desired photographer. <br>
 Enthusiastic and professional photographers can apply to become photographers on our website.
 
-#### Our Project is delpoyed here [Book My Shoot](https://bookmyshoot.netlify.app/)
+#### Our Project is delpoyed here [Paparazzi](https://bookmyshoot.netlify.app/)
 
-### Team 
-- :man_technologist: [Rishab](https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/)
-- :man_technologist: [Kuldeep](https://www.linkedin.com/in/kuldeep-tiwari-a3637923a)
-- :man_technologist: [Saud](https://www.linkedin.com/in/mdsaud/)
-- :woman_technologist: [Nishtha](https://www.linkedin.com/in/nishthakashyap26/)
-- :man_technologist: [Anil](https://www.linkedin.com/in/anil-reddy-b2a364169/)
+### Developer 
+- :man_technologist: [Shubham](https://www.linkedin.com/in/shubham-thakur-58a767315/)
 
 ## Features & Pages :page_facing_up:
 
@@ -23,7 +19,7 @@ Enthusiastic and professional photographers can apply to become photographers on
 
 ##### Photographer
 `About` - Once the role is approved by the admins, photographers can 
-- **Upload their previous works:** Photographers can showcase their portfolio by uploading their previous works, allowing potential clients to get a glimpse of their photography style and skills. 
+- Upload their previous works: Photographers can showcase their portfolio by uploading their previous works, allowing potential clients to get a glimpse of their photography style and skills. 
 - **Details about themselves:** Photographers can provide information about themselves, including their background, experience, and any unique aspects that set them apart.
 - **Equipment they use:** Photographers can list the equipment they use for their shoots
 - **Price for an hour:** Photographers can specify their pricing structure, indicating the cost per hour of their photography services.  <br> <br>
